@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # def sum_of_num(n):
 #     sum = 0
 #     for i in range(1, n+1):
@@ -14,3 +15,8 @@ def savings_of_n_days():
     return int(n*(n+1)/2)
 
 print(savings_of_n_days())
+=======
+def sum_of_natural_num(num):
+  sum = num * (num+1) / 2
+  return sum
+>>>>>>> sivajyothi_work
